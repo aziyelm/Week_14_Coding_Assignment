@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: royalblue;
+  height: 50px;
+  font-size: 50px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.reviewform {
+  width: 100%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.reviewinput {
+  width: 100%;
+  border: solid lightgray;
+  font-size: 1.5em;
+  text-align: center;
+  height: 50px;
+}
+
+.submitbutton {
+  width: 20%;
+  border: none;
+  height: 50px;
+  background-color: tomato;
+  font-size: 1.2em;
+  color: white;
+  margin-top: 20px;
+}
+
+.review {
+  margin: auto;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: whitesmoke;
+}
+
+.reviewtext {
+  font-size: 20px;
+}
+
+.deletebutton {
+  border: none;
+  height: 50px;
+  background-color: tomato;
+  width: 100px;
+  border-radius: 2px;
+  color: white;
+  font-size: 15px;
+}
+
+.movielist {
+  text-align: center;
+}
+
+.movie {
+  margin: 20px;
+  padding: 20px;
+}
+
+.title {
+  font-size: 50px;
+}
+
+.synopsis {
+  margin: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.image {
+  max-width: 50%;
+}
+
+.staron {
+  color: gold;
+
+}
+.staroff {
+  color: #ccc;
+}
+
